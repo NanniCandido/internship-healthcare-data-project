@@ -1,6 +1,6 @@
 # 🏥 PCC Preprocessing Data – Internship Project
 
-**Institution**: Nova Scotia Health  
+**Institution**: Nova Scotia Health Authority
 **Duration**: April – May 2025  
 **Role**: Data Analyst Intern  
 **Note**: Due to confidentiality, code and data files cannot be shared.
