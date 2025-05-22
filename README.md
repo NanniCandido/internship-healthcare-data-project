@@ -41,6 +41,18 @@ The processed data feeds **Tableau dashboards**, supporting health leaders in ma
 
 ---
 
+## 🧠 Deliverables
+
+- Documentation:
+  - Technical Guide
+  - User Guide
+  - Flow chart
+- Python scripts:  
+  - Script for appointment files
+  - Script for triage files
+
+---
+
 ## ✅ Results & Impact
 
 - ✅ **Reduced manual work** previously required to clean and merge data
