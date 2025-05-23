@@ -79,6 +79,3 @@ This repository is **documentation-only** due to the **sensitive and proprietary
 
 ---
 
-## 📬 Contact
-
-Elaine Candido da Silva – [LinkedIn](https://www.linkedin.com/in/elaine-da-silva-candido/) | nannicandido@gmail.com
